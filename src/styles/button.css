@@ -1,0 +1,7 @@
+.buttonComponent {
+    position: relative;
+    display: flex;
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 10px;
+}
